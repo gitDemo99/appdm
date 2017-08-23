@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="java-client-4.0.0-sources">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../data/appium/selenium_jars/java-client-4.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
